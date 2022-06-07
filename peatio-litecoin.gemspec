@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "faraday", "~> 0.17"
   spec.add_dependency "memoist", "~> 0.16.0"
   spec.add_dependency "peatio", ">= 0.6.3"
-  spec.add_dependency 'net-http-persistent', '~> 4.0.1'
+  spec.add_dependency 'net-http-persistent', '~> 3.0.1'
 
   spec.add_development_dependency "bundler", "~> 1.16"
   spec.add_development_dependency "mocha", "~> 1.8"
